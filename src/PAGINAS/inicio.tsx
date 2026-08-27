@@ -8,12 +8,13 @@ import heroImage from "@/IMAGENS/imagem-principal.jpg";
 // 
 
 const DADOS_DO_GRUPO = {
-  titulo: "TÍTULO DO TRABALHO",                    // ← Troque pelo título
-  descricao: "DESCRIÇÃO BÁSICA DO SEU TRABALHO",   // ← Troque pela descrição
+  titulo: "Disco De Newton",                    // ← Troque pelo título
+  descricao: "O Disco de newton combina com as cores do arco-íris em alta rotação,revelando que a luz branca e a união de todas elas.",   // ← Troque pela descrição
+  descricao: "O disco de Newton mostra que a luz branca é formada por várias cores. Ao girar, as cores se misturam e formam o branco.",   // ← Troque pela descrição
   materias: ["Programação", "Física", "Robótica"], // ← Troque pelas matérias
   videoYouTube: "22nd99SLgNA",                     // ← ID do vídeo do YouTube (o que vem depois do v=)
   imagem: "imagem-principal.jpg",                  // ← Nome da imagem na pasta IMAGENS
-  nomeProjeto: "Projeto Integrador",               // ← Nome que aparece no topo da página
+  nomeProjeto: "Disco De Newton",               // ← Nome que aparece no topo da página
 };
 
 // 
